@@ -1,2 +1,2 @@
-# -TABLE-Assignment-
+# TABLE-Assignment
 Nested tables and Tables
